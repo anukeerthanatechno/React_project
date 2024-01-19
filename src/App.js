@@ -1,6 +1,6 @@
 import './App.css';
 
-//changes of app build
+//changes of app build npm
 function App() {
   return (
     <div className="App">
