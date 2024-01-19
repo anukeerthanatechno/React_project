@@ -1,6 +1,6 @@
 import './App.css';
 
-//changes
+//changes of app
 function App() {
   return (
     <div className="App">
