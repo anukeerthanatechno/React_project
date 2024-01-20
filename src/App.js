@@ -10,6 +10,7 @@ function App() {
       <h1>New react project</h1>
       <h1>New react project</h1>
     <h3>new line</h3>
+    <h1>New react project</h1>
     </div>
   );
 }
