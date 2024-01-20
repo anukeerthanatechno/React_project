@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>My react js app</h1>
       <h1>My react js app</h1>
-      <h1>My react js app anu</h1>
+      <h1>My react js app</h1>
       <h1>New react project</h1>
       <h1>New react project</h1>
     <h3>new line</h3>
